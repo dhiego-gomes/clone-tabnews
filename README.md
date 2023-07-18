@@ -4,7 +4,7 @@ Minhas anotações do curso.dev usando o tabnews como referência.
 ## Dia 3
 ### A fundação
 
-- Arquivo ```.nvmrc```. O ```rc``` significa ```run comand```. Aqui nós colocamos especificações recomendadas para rodar nosso projeto.
+- Arquivo ```.nvmrc```. O ```rc``` significa ```run command```. Aqui nós colocamos especificações recomendadas para rodar nosso projeto.
 
 ### A primeira parede
 - 
@@ -17,7 +17,7 @@ Minhas anotações do curso.dev usando o tabnews como referência.
 ### Onde fica o "Git"? E como era feito antes disso?
 
 - **Sistema de versionamento centralizado:** existe uma cópia principal do arquivo. Quem precisava editar o código, reservava o arquivo e ele não poderia ser editado por outras pessoas até que a pessoa que estava editando liberasse o arquivo.
-- **Sistema de versionamento descentralizado:** todos podem editar o arquivo ao mesmo tempo. O algortimo tenta aproveitar ao máximo as alterações feitas.
+- **Sistema de versionamento descentralizado:** todos podem editar o arquivo ao mesmo tempo. O algoritmo tenta aproveitar ao máximo as alterações feitas.
 
 ### Git Log (e o Jogo dos 7 Erros)
 
@@ -33,5 +33,5 @@ Minhas anotações do curso.dev usando o tabnews como referência.
 - ```Your branch is ahead of 'origin/main' by 1 commit.``` Minha branch local está 1 commit na frente da branch original.
 - ```git push```
 - ```package.json``` metadados como autor, descrição, scripts e dependências.
-- ```package-lock.json``` exclusivo das depedências principaos e as depedências dessas dependências.
-- ```commmit -m``` = mensagem
+- ```package-lock.json``` exclusivo das dependências principais e as dependências dessas dependências.
+- ```commit -m``` = mensagem
