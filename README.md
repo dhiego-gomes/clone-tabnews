@@ -35,3 +35,11 @@ Minhas anotações do curso.dev usando o tabnews como referência.
 - ```package.json``` metadados como autor, descrição, scripts e dependências.
 - ```package-lock.json``` exclusivo das dependências principais e as dependências dessas dependências.
 - ```commit -m``` = mensagem
+
+## Dia 7
+### Client / Server
+- ```Client``` e ```Server``` podem trocar de posição, dependendo do que estão fazendo no momento. Ou seja, um certo momento, um ```client``` pode virar um ```server``` e vice-versa. Um servidor pode ter vários clientes conectados nele e também pode se conectar a vários outros servidores.
+
+### Hospedagem e Deploy
+- Vercel ❤️
+- Continuous Deployment
