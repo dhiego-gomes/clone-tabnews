@@ -80,3 +80,33 @@ Minhas anotações do curso.dev usando o tabnews como referência.
   1. Início. Quando identificamos que algo positivo pode acontecer. Cérebro libera um pouco de dopamina que nos motiva a fazer alguma coisa para receber a recompensa.
   2. Progresso. Quando percebemos progresso, o cérebro libera mais dopamina para nos incentivar a continuar com vontade de continuar fazendo a tarefa.
   3. Conclusão. Quando finalizamos a tarefa recebemos a dopamina final.
+
+## Dia 10
+
+### Sincronização das configurações do Editor
+
+- Dividir `Issues` em `Tarefas`.
+- 💡Sugestão de outro aluno: criar perfis de configuração para o editor. Isso ajuda a ter um gerenciamento melhor das ferramentas usadas em cada projeto.
+
+### Configurar o `EditorConfig`
+
+- A extensão `EditorConfig` é um configurador de editor. No arquivo `.editorconfig`, definimos como o editor deve ser comportar.
+  - Largura da indentação, espaçamento e etc.
+- Ele atua nos arquivos **_antes_** do salvamento.
+
+### Configurar o `Prettier`
+
+- `Prettier` é um formatador de código opinado.
+- Ele atua nos arquivos **_depois_** do salvamento.
+- Comando para instalação: `npm install prettier -D`
+  - `-D` indica que ele será instalado como uma ferramenta de desenvolvimento.
+- Script para o `Prettier` **_verificar_** todos os arquivos:
+  - `package.json` > `scripts` > `"lint:check": "prettier --check ."`
+- Script para o `Prettier` **_corrigir_** todos os arquivos:
+  - `package.json` > `scripts` > `"lint:fix": "prettier --write ."`
+- `npm run lint:check` ou `lint:fix`
+- A extensão do `Prettier` atua **_ao salvar_** os arquivos. Nas configurações do editor, definimos em `Editor: Default Formatter` a opção `Prettier`. Assim, o vscode vai deixar que o `Prettier` formate os arquivos ao salvarmos. Habilitamos a opção `Editor: Format On Save`.
+
+### Configurar o Prettier Ignore
+
+- `prettierignore` funciona igual o `.gitignore`.
