@@ -109,4 +109,15 @@ Minhas anotações do curso.dev usando o tabnews como referência.
 
 ### Configurar o Prettier Ignore
 
-- `prettierignore` funciona igual o `.gitignore`.
+- `.prettierignore` funciona igual o `.gitignore`.
+
+## Dia 11
+
+### Resolução de `DNS`
+
+- Domínios são **_apelidos_** dos IPs.
+- `DNS` Domain Name System.
+- De maneira simples, como o computador acessa um site?
+  1. O computador se conecta com o servidor DNS usando o **_domínio_** do site.
+  2. O servidor DNS fornece o **_IP_** do domínio.
+  3. O computador acessa o servidor do site usando o IP que ele recebeu.
