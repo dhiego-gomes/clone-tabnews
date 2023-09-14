@@ -121,3 +121,10 @@ Minhas anotações do curso.dev usando o tabnews como referência.
   1. O computador se conecta com o servidor DNS usando o **_domínio_** do site.
   2. O servidor DNS fornece o **_IP_** do domínio.
   3. O computador acessa o servidor do site usando o IP que ele recebeu.
+
+## Dia 12
+
+### Registrar um Domínio Próprio
+
+### Configurar o Servidor de DNS
+
