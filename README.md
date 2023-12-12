@@ -128,3 +128,18 @@ Minhas anotações do curso.dev usando o tabnews como referência.
 
 ### Configurar o Servidor de DNS
 
+
+## Dia 13
+
+### Página "Em Construção" e Encerramento da Milestone 0
+
+- **_Ideia (Teoria) McDonalds_**: podemos usar essa mecânica quando queremos que um processo comece a andar, mas não conseguimos sair do lugar. Ela consiste em darmos uma opinião ou sugestão sem compromisso para o projeto em questão. Isso pode despertar um sentimento de "Ah se for pra fazer 'assim', é melhor 'tal coisa'".
+  
+  > Numa segunda-feira os colegas de trabalho discutem sobre onde irão almoçar. Um deles dá a **_ideia McDonalds_**: "Por que não vamos no McDonalds?" Isso desperta uma reação nos outros do tipo: "Ah, se for pra ir almoçar no Mc, é melhor irmos em tal lugar", gerando várias ideias de onde eles podem ir.
+
+### Não confie em nenhum serviço 🛑
+
+- **Status pages**
+  - Vercel: https://www.vercel-status.com/
+  - AWS: https://health.aws.amazon.com/health/status
+  - GitHub: https://www.githubstatus.com/
