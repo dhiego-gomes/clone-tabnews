@@ -128,7 +128,6 @@ Minhas anotações do curso.dev usando o tabnews como referência.
 
 ### Configurar o Servidor de DNS
 
-
 ## Dia 13
 
 ### Página "Em Construção" e Encerramento da Milestone 0
@@ -170,3 +169,15 @@ Minhas anotações do curso.dev usando o tabnews como referência.
 ┃ ┃ ┣ 📂 production
 ┣ 📂 tests
 ```
+## Dia 15
+
+### Testes Automatizados: um caminho sem volta
+
+### Instalar um Test Runner
+
+- **De modo simples: é um código que executa outro código.** Ele retorna um relatório do que aconteceu.
+
+- `Jest`
+  - `npm install --save-dev jest@29.6.2`
+  - `npm run test` (`test` foi definido `package.json` como o comando para executar o jest).
+  - `npm run test:watch` para o jest ficar rodando continuamente.
