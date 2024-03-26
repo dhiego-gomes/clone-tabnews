@@ -181,3 +181,7 @@ Minhas anotações do curso.dev usando o tabnews como referência.
   - `npm install --save-dev jest@29.6.2`
   - `npm run test` (`test` foi definido `package.json` como o comando para executar o jest).
   - `npm run test:watch` para o jest ficar rodando continuamente.
+
+### Criar um "Teste de Teste"
+
+### Criar um "Teste de Verdade"
