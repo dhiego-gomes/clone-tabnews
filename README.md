@@ -143,3 +143,30 @@ Minhas anotações do curso.dev usando o tabnews como referência.
   - Vercel: https://www.vercel-status.com/
   - AWS: https://health.aws.amazon.com/health/status
   - GitHub: https://www.githubstatus.com/
+
+## Dia 14
+
+### Inauguração Milestone 1: Fundação
+
+### Uma história macabra sobre "Overengineering"
+
+### Proposta de Arquitetura e Pastas
+
+- Arquitetura de software e organização de pastas são coisas diferentes.
+
+```
+📦 root
+┣ 📂 pages
+┃ ┗ 📜 index.js
+┣ 📂 models
+┃ ┣ 📜 user.js
+┃ ┣ 📜 content.js
+┃ ┗ 📜 password.js
+┣ 📂 infra
+┃ ┗ 📜 database.js
+┃ ┣ 📂 migrations
+┃ ┣ 📂 provisioning
+┃ ┃ ┣ 📂 staging
+┃ ┃ ┣ 📂 production
+┣ 📂 tests
+```
